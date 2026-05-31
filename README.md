@@ -1,6 +1,9 @@
 # 💫 About Me:
-I build, learn, and ship.<br>Looking to collaborate on Full-stack projects & open source<br>I treat new tech like side quests 🎮
+Final-year B.Tech CSE undergraduate passionate about full-stack development and DSA. I love building production-ready applications, learning new technologies, and solving challenging problems.
 
+I believe coding is a superpower. In a world powered by technology, developers aren't just users—we're creators. The ability to take an idea, build it into reality, and create something that people rely on every day is what drives me to keep learning and building.
+
+The idea that something I build today could become a part of someone's daily life tomorrow is both humbling and inspiring.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/rEnYkSsd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samyak.tsx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samyakrajgruhi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samyakrajgruhi@gmail.com) 
